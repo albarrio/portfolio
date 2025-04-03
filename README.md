@@ -32,7 +32,7 @@ check your version
 
    ```bash
    git clone https://github.com/yourusername/my-portfolio.git
-   cd my-portfolio
+   cd portfolio
    ```
 
 2. Install dependencies:
