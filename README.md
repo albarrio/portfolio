@@ -21,7 +21,9 @@ A sleek, responsive portfolio website built with Astro, React, and Tailwind CSS,
 - Node.js (v18 or higher recommended)
 - npm or yarn or bun
 
-note: check your version
+note: 
+check your version
+
 ![image](https://github.com/user-attachments/assets/df56c9fb-a7d2-4dab-ae3d-147a17a838ff)
 
 ### Installation
